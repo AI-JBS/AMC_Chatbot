@@ -3,3 +3,4 @@ venv
 .env
 .env.local
 .env.*.local
+back-end\.env
