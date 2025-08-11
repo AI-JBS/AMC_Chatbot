@@ -4,7 +4,6 @@ const nextConfig = {
   reactStrictMode: true,
   trailingSlash: true,
   swcMinify: true,
-  output: 'export',
   // Required for static export
   images: {
     unoptimized: true
@@ -17,8 +16,6 @@ const nextConfig = {
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
-  // Static file serving
-  trailingSlash: false,
   generateEtags: false,
   async rewrites() {
     return [
