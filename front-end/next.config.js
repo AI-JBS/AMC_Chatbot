@@ -2,15 +2,18 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  // Optimize for development speed
+  output: 'standalone',
+  // Production optimizations
   experimental: {
-    optimizeCss: false,
     optimizePackageImports: ['lucide-react', 'framer-motion'],
   },
-  // Faster compilation
+  // Compiler optimizations
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
+  // Static file serving
+  trailingSlash: false,
+  generateEtags: false,
   async rewrites() {
     return [
       {
