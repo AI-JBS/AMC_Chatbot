@@ -1,7 +1,7 @@
 """Create a ReAct agent with access to tools defined in a tool server."""
 
 import logging
-from datetime import UTC, datetime
+from datetime import datetime, timezone
 
 from langchain_core.runnables import RunnableConfig
 from langgraph.graph.state import CompiledStateGraph
@@ -27,7 +27,7 @@ async def make_graph(config: RunnableConfig) -> CompiledStateGraph:
 
     # Format the system prompt. Customize this to change the agent's behavior.
     prompt = configuration.system_prompt.format(
-        system_time=datetime.now(tz=UTC).isoformat()
+        system_time=datetime.now(timezone.utc).isoformat()
     )
 
     # Initialize memory saver for short-term memory
