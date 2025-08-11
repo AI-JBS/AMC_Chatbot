@@ -3,7 +3,7 @@ import { ChatRequest, ChatResponse } from '@/types/chat';
 
 // Create axios instance with base configuration
 const api = axios.create({
-  baseURL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8022',
+  baseURL: process.env.NEXT_PUBLIC_API_URL || 'https://jbs-ai.com/amc_api',
   timeout: 30000,
   headers: {
     'Content-Type': 'application/json',

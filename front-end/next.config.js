@@ -15,7 +15,7 @@ const nextConfig = {
     return [
       {
         source: '/api/:path*',
-        destination: 'http://localhost:8022/:path*', // Backend API proxy
+        destination: 'https://jbs-ai.com/amc_api/:path*', // Production API proxy
       },
     ]
   },

@@ -53,7 +53,7 @@ A modern, responsive frontend for the AI-powered financial advisory chatbot, bui
    ```
 
 4. **Open in Browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to [http://localhost:3022](http://localhost:3022)
 
 ### Available Scripts
 
