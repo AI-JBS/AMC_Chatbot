@@ -2,6 +2,7 @@
 const nextConfig = {
   basePath: '/amc_chatbot',
   reactStrictMode: true,
+  trailingSlash: true,
   swcMinify: true,
   output: 'standalone',
   // Production optimizations
