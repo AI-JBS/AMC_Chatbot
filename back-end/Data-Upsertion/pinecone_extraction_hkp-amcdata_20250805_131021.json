@@ -1,0 +1,7 @@
+{
+  "index_stats": {
+    "total_vector_count": 399,
+    "dimension": 1536,
+    "index_fullness": 0.0,
+    "namespaces": {
+      "": 

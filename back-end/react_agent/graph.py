@@ -1,0 +1,49 @@
+"""Create a ReAct agent with access to tools defined in a tool server."""
+
+import logging
+from datetime import UTC, datetime
+
+from langchain_core.runnables import RunnableConfig
+from langgraph.graph.state import CompiledStateGraph
+from langgraph.prebuilt import create_react_agent
+from langgraph.checkpoint.memory import InMemorySaver
+
+from react_agent.configuration import APP_STATE
+from react_agent.tools import TOOLBOX
+from react_agent.utils import load_chat_model
+
+
+async def make_graph(config: RunnableConfig) -> CompiledStateGraph:
+    """Create a custom state graph for the Reasoning and Action agent."""
+    configuration = APP_STATE.configurable.from_runnable_config(config)
+
+    tools_to_use = [
+        tool
+        for tool in TOOLBOX.get_tools()
+        if tool.name in configuration.selected_tools or not configuration.selected_tools
+    ]
+    # Initialize the model with tool binding. Change the model or add more tools here.
+    model = load_chat_model(configuration.model)
+
+    # Format the system prompt. Customize this to change the agent's behavior.
+    prompt = configuration.system_prompt.format(
+        system_time=datetime.now(tz=UTC).isoformat()
+    )
+
+    # Initialize memory saver for short-term memory
+    memory = InMemorySaver() if configuration.enable_memory else None
+
+    graph = create_react_agent(
+        model, 
+        tools=tools_to_use, 
+        prompt=prompt, 
+        config_schema=APP_STATE.configurable,
+        checkpointer=memory
+    )
+    
+    # Log memory configuration
+    logger = logging.getLogger(__name__)
+    logger.info(f"[GRAPH] Memory enabled: {configuration.enable_memory}")
+    logger.info(f"[GRAPH] Using checkpointer: {type(memory).__name__ if memory else 'None'}")
+    graph.name = "ReAct Agent"  # This customizes the name in LangSmith
+    return graph

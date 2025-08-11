@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer components {
+  .chat-message {
+    @apply px-3 py-2 rounded-2xl text-sm leading-relaxed;
+  }
+  
+  .chat-message-user {
+    @apply bg-primary-500 text-white ml-auto rounded-br-md;
+  }
+  
+  .chat-message-assistant {
+    @apply bg-white text-gray-800 mr-auto rounded-bl-md shadow-sm border border-gray-100;
+  }
+  
+  .chat-input {
+    @apply w-full px-4 py-3 bg-white border border-gray-200 rounded-full focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent resize-none;
+  }
+  
+  .floating-button {
+    @apply fixed bottom-6 right-6 w-14 h-14 bg-gradient-to-r from-primary-500 to-primary-600 rounded-full shadow-button flex items-center justify-center text-white cursor-pointer transition-all duration-300 hover:scale-110 hover:shadow-lg z-50;
+  }
+  
+  .chat-container {
+    @apply fixed bottom-6 right-6 w-96 h-[600px] bg-white rounded-xl shadow-chat border border-gray-200 flex flex-col z-50 backdrop-blur-sm;
+  }
+  
+  @media (max-width: 480px) {
+    .chat-container {
+      @apply bottom-4 right-4 left-4 w-auto h-[500px];
+    }
+    
+    .floating-button {
+      @apply bottom-4 right-4;
+    }
+  }
+  
+  /* Chart container responsiveness */
+  .chat-messages {
+    @apply overflow-x-hidden;
+  }
+  
+  .chat-messages > * {
+    @apply max-w-full;
+  }
+  
+  .typing-indicator {
+    @apply flex space-x-1 p-2;
+  }
+  
+  .typing-dot {
+    @apply w-2 h-2 bg-gray-400 rounded-full animate-pulse;
+  }
+}
+
+/* Custom scrollbar for chat */
+.chat-messages::-webkit-scrollbar {
+  width: 4px;
+}
+
+.chat-messages::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.chat-messages::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 10px;
+}
+
+.chat-messages::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Smooth animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.message-animation {
+  animation: fadeInUp 0.3s ease-out;
+}
+
+.widget-animation {
+  animation: scaleIn 0.3s ease-out;
+}

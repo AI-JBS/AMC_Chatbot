@@ -1,0 +1,400 @@
+15d,180d,1d,270d,2y,30d,365d,3y,90d,assets_under_management,column,date,fund_name,management_fee,net_asset_value,pricing_mechanism,return_mtd,return_ytd,risk_profile,sales_and_marketing,value,vector_id,score,total_expense_ratio
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Total Expense Ratio,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,0.45,jbs-islamic-money-market-fund_total-expense-ratio,0,
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Sales and Marketing,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,,0.30,jbs-financial-sector-fund_sales-and-marketing,0,1.45
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Risk Profile,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,,0.20,Low,jbs-stable-return-plan_risk-profile,0,0.75
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Total Expense Ratio,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,2.45,jbs-aggressive-growth-fund_total-expense-ratio,0,
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Pricing Mechanism,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,,9.20,12.85,Low,0.20,Forward,jbs-islamic-pension-fund_pricing-mechanism,0,0.95
+4.85,15.20,2.15,28.45,,6.90,42.80,125.70,12.75,1850000000,2Y,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,89.60,jbs-pension-fund_2y,0,1.25
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Fund Name,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,JBS Islamic Government Fund,jbs-islamic-government-fund_fund-name,0,0.40
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Pricing Mechanism,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,,2.45,18.75,High,0.35,Forward,jbs-alpha-growth-fund_pricing-mechanism,0,1.85
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Total Expense Ratio,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,0.75,jbs-stable-return-plan_total-expense-ratio,0,
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Return YTD,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,,Medium,0.18,10.45,jbs-government-securities-fund_return-ytd,0,0.35
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Pricing Mechanism,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,,0.65,25.80,High,0.45,Forward,jbs-aggressive-growth-fund_pricing-mechanism,0,2.45
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Return YTD,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,,Low,0.20,11.80,jbs-stable-return-plan_return-ytd,0,0.75
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,,2150000000,90D,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,18.45,jbs-financial-sector-fund_90d,0,1.45
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Pricing Mechanism,2025-08-01,JBS Financial Sector Fund,1.00,134.52,,7.85,20.50,Medium,0.30,Forward,jbs-financial-sector-fund_pricing-mechanism,0,1.45
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Return MTD,2025-08-01,JBS Stable Return Plan,0.60,104.25,,,11.80,Low,0.20,10.50,jbs-stable-return-plan_return-mtd,0,0.75
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Total Expense Ratio,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,1.75,jbs-islamic-equity-fund_total-expense-ratio,0,
+10.25,,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,180D,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,11.45,jbs-stable-return-plan_180d,0,0.75
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Total Expense Ratio,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,0.35,jbs-government-securities-fund_total-expense-ratio,0,
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Pricing Mechanism,2025-08-01,JBS Conservative Income Fund,0.45,103.89,,9.75,10.60,Low,0.16,Forward,jbs-conservative-income-fund_pricing-mechanism,0,0.65
+1.75,26.40,0.45,42.90,,3.60,78.60,245.60,21.85,1620000000,2Y,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,165.80,jbs-aggressive-growth-fund_2y,0,2.45
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Pricing Mechanism,2025-08-01,JBS Sovereign Fund,0.75,107.63,,8.95,11.20,Medium,0.25,Forward,jbs-sovereign-fund_pricing-mechanism,0,0.55
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Pricing Mechanism,2025-08-01,JBS Pension Fund,0.85,198.47,,7.65,14.25,Medium,0.30,Forward,jbs-pension-fund_pricing-mechanism,0,1.25
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Management Fee,2025-08-01,JBS Stable Return Plan,,104.25,,10.50,11.80,Low,0.20,0.60,jbs-stable-return-plan_management-fee,0,0.75
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Total Expense Ratio,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,0.85,jbs-cash-fund_total-expense-ratio,0,
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Net Asset Value,2025-08-02,JBS Money Market Fund,0.50,,Backward,8.90,9.25,Low,0.15,101.85,jbs-money-market-fund_net-asset-value,0,0.65
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Pricing Mechanism,2025-08-01,JBS Income Growth Fund,0.95,116.84,,8.50,13.70,Medium,0.28,Forward,jbs-income-growth-fund_pricing-mechanism,0,1.35
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Return YTD,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,,High,0.35,18.75,jbs-alpha-growth-fund_return-ytd,0,1.85
+9.05,9.60,8.75,9.70,10.10,,9.85,10.25,9.25,38920000000,30D,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,8.95,jbs-islamic-money-market-fund_30d,0,0.45
+6.25,12.85,4.85,13.25,15.60,,13.95,18.75,11.90,3450000000,30D,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,7.15,jbs-retirement-planning-fund_30d,0,1.05
+1.95,16.75,,31.40,118.60,3.85,54.85,0,14.20,2680000000,1D,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,0.75,jbs-dedicated-equity-fund_1d,0,1.95
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Fund Name,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,JBS Financial Sector Fund,jbs-financial-sector-fund_fund-name,0,1.45
+4.85,15.20,2.15,,89.60,6.90,42.80,125.70,12.75,1850000000,270D,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,28.45,jbs-pension-fund_270d,0,1.25
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Risk Profile,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,,0.15,Low,jbs-money-market-fund_risk-profile,0,0.65
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Fund Name,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,JBS Islamic Money Market Fund,jbs-islamic-money-market-fund_fund-name,0,0.45
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Sales and Marketing,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,,0.19,jbs-islamic-government-fund_sales-and-marketing,0,0.40
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Sales and Marketing,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,,0.30,jbs-pension-fund_sales-and-marketing,0,1.25
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Total Expense Ratio,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,1.45,jbs-financial-sector-fund_total-expense-ratio,0,
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Sales and Marketing,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,,0.35,jbs-alpha-growth-fund_sales-and-marketing,0,1.85
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Risk Profile,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,,0.12,Low,jbs-islamic-money-market-fund_risk-profile,0,0.45
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Management Fee,2025-08-01,JBS Sovereign Fund,,107.63,Forward,8.95,11.20,Medium,0.25,0.75,jbs-sovereign-fund_management-fee,0,0.55
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Sales and Marketing,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,,0.24,jbs-retirement-planning-fund_sales-and-marketing,0,1.05
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Fund Name,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,JBS Equity Opportunity Fund,jbs-equity-opportunity-fund_fund-name,0,2.15
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,,11.85,15670000000,3Y,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,18.95,jbs-islamic-income-fund_3y,0,0.95
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Risk Profile,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,,0.22,Low,jbs-cash-fund_risk-profile,0,0.85
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Risk Profile,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,,0.38,High,jbs-dedicated-equity-fund_risk-profile,0,1.95
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Risk Profile,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,,0.32,High,jbs-islamic-equity-fund_risk-profile,0,1.75
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Total Expense Ratio,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,1.85,jbs-alpha-growth-fund_total-expense-ratio,0,
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Return MTD,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,,22.60,High,0.40,1.85,jbs-equity-opportunity-fund_return-mtd,0,2.15
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Risk Profile,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,,0.40,High,jbs-equity-opportunity-fund_risk-profile,0,2.15
+2.85,20.60,,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,1D,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,1.45,jbs-islamic-equity-fund_1d,0,1.75
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Fund Name,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,JBS Money Market Fund,jbs-money-market-fund_fund-name,0,0.65
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Pricing Mechanism,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,,0.95,16.85,High,0.38,Forward,jbs-dedicated-equity-fund_pricing-mechanism,0,1.95
+9.65,10.45,9.45,,11.15,9.55,10.75,11.65,10.25,18940000000,270D,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,10.55,jbs-conservative-income-fund_270d,0,0.65
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Pricing Mechanism,2025-08-01,JBS Government Securities Fund,0.70,102.18,,8.75,10.45,Medium,0.18,Forward,jbs-government-securities-fund_pricing-mechanism,0,0.35
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Return MTD,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,,9.95,Low,0.22,9.40,jbs-cash-fund_return-mtd,0,0.85
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Management Fee,2025-08-01,JBS Aggressive Growth Fund,,189.43,Forward,0.65,25.80,High,0.45,1.75,jbs-aggressive-growth-fund_management-fee,0,2.45
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Risk Profile,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,,0.24,Low,jbs-retirement-planning-fund_risk-profile,0,1.05
+9.65,,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,180D,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,10.45,jbs-conservative-income-fund_180d,0,0.65
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,,9.45,28750000000,3Y,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,10.45,jbs-cash-fund_3y,0,0.85
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Date,,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,2025-08-03,jbs-cash-fund_date,0,0.85
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Net Asset Value,2025-08-01,JBS Aggressive Growth Fund,1.75,,Forward,0.65,25.80,High,0.45,189.43,jbs-aggressive-growth-fund_net-asset-value,0,2.45
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,,18.45,2150000000,3Y,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,32.90,jbs-financial-sector-fund_3y,0,1.45
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Risk Profile,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,,0.20,Low,jbs-islamic-pension-fund_risk-profile,0,0.95
+2.14,22.40,,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,1D,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,0.85,jbs-alpha-growth-fund_1d,0,1.85
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Sales and Marketing,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,,0.40,jbs-equity-opportunity-fund_sales-and-marketing,0,2.15
+9.80,,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,180D,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,9.40,jbs-islamic-income-fund_180d,0,0.95
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Pricing Mechanism,2025-08-01,JBS Islamic Income Fund,0.80,108.45,,9.85,12.40,Medium,0.25,Forward,jbs-islamic-income-fund_pricing-mechanism,0,0.95
+8.75,10.95,8.25,11.15,12.10,8.85,,12.75,10.65,9350000000,365D,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,11.45,jbs-sovereign-fund_365d,0,0.55
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Return MTD,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,,11.20,Medium,0.25,8.95,jbs-sovereign-fund_return-mtd,0,0.55
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Pricing Mechanism,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,,6.75,15.30,Medium,0.26,Forward,jbs-balanced-allocation-fund_pricing-mechanism,0,1.15
+8.45,10.15,,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,1D,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,7.95,jbs-government-securities-fund_1d,0,0.35
+1.75,26.40,,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,1D,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,0.45,jbs-aggressive-growth-fund_1d,0,2.45
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Management Fee,2025-08-01,JBS Retirement Planning Fund,,167.35,Forward,8.25,13.40,Low,0.24,0.70,jbs-retirement-planning-fund_management-fee,0,1.05
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Pricing Mechanism,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,,8.25,13.40,Low,0.24,Forward,jbs-retirement-planning-fund_pricing-mechanism,0,1.05
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Return MTD,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,,18.75,High,0.35,2.45,jbs-alpha-growth-fund_return-mtd,0,1.85
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Sales and Marketing,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,,0.12,jbs-islamic-money-market-fund_sales-and-marketing,0,0.45
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Risk Profile,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,,0.45,High,jbs-aggressive-growth-fund_risk-profile,0,2.45
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Management Fee,2025-08-02,JBS Islamic Money Market Fund,,100.95,Backward,9.15,9.80,Low,0.12,0.40,jbs-islamic-money-market-fund_management-fee,0,0.45
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Pricing Mechanism,2025-08-01,JBS Islamic Government Fund,0.60,105.72,,8.60,10.90,Medium,0.19,Forward,jbs-islamic-government-fund_pricing-mechanism,0,0.40
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Management Fee,2025-08-01,JBS Conservative Income Fund,,103.89,Forward,9.75,10.60,Low,0.16,0.45,jbs-conservative-income-fund_management-fee,0,0.65
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,,3450000000,90D,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,11.90,jbs-retirement-planning-fund_90d,0,1.05
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Sales and Marketing,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,,0.38,jbs-dedicated-equity-fund_sales-and-marketing,0,1.95
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Management Fee,2025-08-01,JBS Islamic Government Fund,,105.72,Forward,8.60,10.90,Medium,0.19,0.60,jbs-islamic-government-fund_management-fee,0,0.40
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,,11.90,3450000000,3Y,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,18.75,jbs-retirement-planning-fund_3y,0,1.05
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Management Fee,2025-08-01,JBS Pension Fund,,198.47,Forward,7.65,14.25,Medium,0.30,0.85,jbs-pension-fund_management-fee,0,1.25
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Total Expense Ratio,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,0.40,jbs-islamic-government-fund_total-expense-ratio,0,
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Fund Name,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,JBS Cash Fund,jbs-cash-fund_fund-name,0,0.85
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Sales and Marketing,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,,0.45,jbs-aggressive-growth-fund_sales-and-marketing,0,2.45
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Management Fee,2025-08-01,JBS Government Securities Fund,,102.18,Forward,8.75,10.45,Medium,0.18,0.70,jbs-government-securities-fund_management-fee,0,0.35
+,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,15D,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,8.35,jbs-islamic-government-fund_15d,0,0.40
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Fund Name,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,JBS Islamic Equity Fund,jbs-islamic-equity-fund_fund-name,0,1.75
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Risk Profile,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,,0.16,Low,jbs-conservative-income-fund_risk-profile,0,0.65
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Pricing Mechanism,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,,1.85,22.60,High,0.40,Forward,jbs-equity-opportunity-fund_pricing-mechanism,0,2.15
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Fund Name,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,JBS Sovereign Fund,jbs-sovereign-fund_fund-name,0,0.55
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Management Fee,2025-08-01,JBS Dedicated Equity Fund,,125.73,Forward,0.95,16.85,High,0.38,1.40,jbs-dedicated-equity-fund_management-fee,0,1.95
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Net Asset Value,2025-08-01,JBS Government Securities Fund,0.70,,Forward,8.75,10.45,Medium,0.18,102.18,jbs-government-securities-fund_net-asset-value,0,0.35
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Pricing Mechanism,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,,1.25,19.40,High,0.32,Forward,jbs-islamic-equity-fund_pricing-mechanism,0,1.75
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Sales and Marketing,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,,0.28,jbs-income-growth-fund_sales-and-marketing,0,1.35
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Risk Profile,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,,0.35,High,jbs-alpha-growth-fund_risk-profile,0,1.85
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Fund Name,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,JBS Islamic Income Fund,jbs-islamic-income-fund_fund-name,0,0.95
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,,Assets Under Management,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,4780000000,jbs-income-growth-fund_assets-under-management,0,1.35
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Sales and Marketing,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,,0.16,jbs-conservative-income-fund_sales-and-marketing,0,0.65
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Net Asset Value,2025-08-01,JBS Sovereign Fund,0.75,,Forward,8.95,11.20,Medium,0.25,107.63,jbs-sovereign-fund_net-asset-value,0,0.55
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Fund Name,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,JBS Conservative Income Fund,jbs-conservative-income-fund_fund-name,0,0.65
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Return YTD,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,,Medium,0.19,10.90,jbs-islamic-government-fund_return-ytd,0,0.40
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Return YTD,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,,Medium,0.25,11.20,jbs-sovereign-fund_return-ytd,0,0.55
+6.25,12.85,,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,1D,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,4.85,jbs-retirement-planning-fund_1d,0,1.05
+,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,15D,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,5.90,jbs-balanced-allocation-fund_15d,0,1.15
+8.45,,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,180D,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,10.15,jbs-government-securities-fund_180d,0,0.35
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Sales and Marketing,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,,0.15,jbs-money-market-fund_sales-and-marketing,0,0.65
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,,Assets Under Management,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,8760000000,jbs-islamic-government-fund_assets-under-management,0,0.40
+9.65,10.45,9.45,10.55,,9.55,10.75,11.65,10.25,18940000000,2Y,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,11.15,jbs-conservative-income-fund_2y,0,0.65
+8.35,10.65,7.85,10.85,11.85,8.45,,12.45,10.15,8760000000,365D,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,11.25,jbs-islamic-government-fund_365d,0,0.40
+1.75,26.40,0.45,,165.80,3.60,78.60,245.60,21.85,1620000000,270D,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,42.90,jbs-aggressive-growth-fund_270d,0,2.45
+,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,15D,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,4.85,jbs-pension-fund_15d,0,1.25
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Total Expense Ratio,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,0.95,jbs-islamic-pension-fund_total-expense-ratio,0,
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,,Assets Under Management,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,42380000000,jbs-money-market-fund_assets-under-management,0,0.65
+1.95,16.75,0.75,31.40,,3.85,54.85,0,14.20,2680000000,2Y,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,118.60,jbs-dedicated-equity-fund_2y,0,1.95
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Return MTD,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,,16.85,High,0.38,0.95,jbs-dedicated-equity-fund_return-mtd,0,1.95
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Fund Name,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,JBS Islamic Pension Fund,jbs-islamic-pension-fund_fund-name,0,0.95
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Total Expense Ratio,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,0.95,jbs-islamic-income-fund_total-expense-ratio,0,
+9.15,12.25,8.85,12.65,,9.05,13.15,14.50,11.75,985000000,2Y,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,13.80,jbs-islamic-pension-fund_2y,0,0.95
+5.90,15.45,3.85,16.90,,7.25,18.65,26.85,13.80,6890000000,2Y,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,22.40,jbs-balanced-allocation-fund_2y,0,1.15
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Total Expense Ratio,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,1.25,jbs-pension-fund_total-expense-ratio,0,
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Return MTD,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,,10.45,Medium,0.18,8.75,jbs-government-securities-fund_return-mtd,0,0.35
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Return YTD,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,,High,0.45,25.80,jbs-aggressive-growth-fund_return-ytd,0,2.45
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Return YTD,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,,Medium,0.26,15.30,jbs-balanced-allocation-fund_return-ytd,0,1.15
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Sales and Marketing,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,,0.20,jbs-islamic-pension-fund_sales-and-marketing,0,0.95
+9.35,9.75,9.15,9.85,,9.25,10.05,10.45,9.45,28750000000,2Y,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,10.15,jbs-cash-fund_2y,0,0.85
+9.35,9.75,9.15,9.85,10.15,9.25,,10.45,9.45,28750000000,365D,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,10.05,jbs-cash-fund_365d,0,0.85
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,,985000000,90D,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,11.75,jbs-islamic-pension-fund_90d,0,0.95
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Total Expense Ratio,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,0.55,jbs-sovereign-fund_total-expense-ratio,0,
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,,Assets Under Management,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,2680000000,jbs-dedicated-equity-fund_assets-under-management,0,1.95
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Return YTD,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,,Low,0.22,9.95,jbs-cash-fund_return-ytd,0,0.85
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Return MTD,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,,10.60,Low,0.16,9.75,jbs-conservative-income-fund_return-mtd,0,0.65
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Total Expense Ratio,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,1.35,jbs-income-growth-fund_total-expense-ratio,0,
+4.85,15.20,,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,1D,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,2.15,jbs-pension-fund_1d,0,1.25
+,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,15D,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,3.80,jbs-equity-opportunity-fund_15d,0,2.15
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Return MTD,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,,13.70,Medium,0.28,8.50,jbs-income-growth-fund_return-mtd,0,1.35
+8.75,,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,180D,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,10.95,jbs-sovereign-fund_180d,0,0.55
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,,14.20,2680000000,3Y,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,0,jbs-dedicated-equity-fund_3y,0,1.95
+2.14,22.40,0.85,38.25,145.20,,68.90,189.75,18.60,8950000000,30D,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,4.75,jbs-alpha-growth-fund_30d,0,1.85
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,,Assets Under Management,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,28750000000,jbs-cash-fund_assets-under-management,0,0.85
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Fund Name,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,JBS Balanced Allocation Fund,jbs-balanced-allocation-fund_fund-name,0,1.15
+2.14,22.40,0.85,38.25,145.20,4.75,,189.75,18.60,8950000000,365D,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,68.90,jbs-alpha-growth-fund_365d,0,1.85
+9.35,,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,180D,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,9.75,jbs-cash-fund_180d,0,0.85
+9.80,9.40,7.25,10.60,16.80,,13.25,18.95,11.85,15670000000,30D,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,10.15,jbs-islamic-income-fund_30d,0,0.95
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Management Fee,2025-08-01,JBS Alpha Growth Fund,,142.68,Forward,2.45,18.75,High,0.35,1.25,jbs-alpha-growth-fund_management-fee,0,1.85
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,,Assets Under Management,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,18940000000,jbs-conservative-income-fund_assets-under-management,0,0.65
+8.75,10.95,8.25,,12.10,8.85,11.45,12.75,10.65,9350000000,270D,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,11.15,jbs-sovereign-fund_270d,0,0.55
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Return YTD,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,,Low,0.24,13.40,jbs-retirement-planning-fund_return-ytd,0,1.05
+10.25,11.45,9.85,11.65,12.20,,11.95,12.85,11.15,7850000000,30D,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,10.35,jbs-stable-return-plan_30d,0,0.75
+3.80,19.85,1.25,35.60,,6.25,58.75,168.90,16.45,3240000000,2Y,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,125.40,jbs-equity-opportunity-fund_2y,0,2.15
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,,1850000000,90D,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,12.75,jbs-pension-fund_90d,0,1.25
+9.65,10.45,,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,1D,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,9.45,jbs-conservative-income-fund_1d,0,0.65
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Total Expense Ratio,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,2.15,jbs-equity-opportunity-fund_total-expense-ratio,0,
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Management Fee,2025-08-01,JBS Balanced Allocation Fund,,122.89,Forward,6.75,15.30,Medium,0.26,0.90,jbs-balanced-allocation-fund_management-fee,0,1.15
+3.80,19.85,1.25,35.60,125.40,6.25,,168.90,16.45,3240000000,365D,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,58.75,jbs-equity-opportunity-fund_365d,0,2.15
+,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,15D,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,1.95,jbs-dedicated-equity-fund_15d,0,1.95
+2.14,,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,180D,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,22.40,jbs-alpha-growth-fund_180d,0,1.85
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Sales and Marketing,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,,0.22,jbs-cash-fund_sales-and-marketing,0,0.85
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Management Fee,2025-08-01,JBS Islamic Pension Fund,,156.74,Forward,9.20,12.85,Low,0.20,0.55,jbs-islamic-pension-fund_management-fee,0,0.95
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Return YTD,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,,High,0.32,19.40,jbs-islamic-equity-fund_return-ytd,0,1.75
+5.90,,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,180D,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,15.45,jbs-balanced-allocation-fund_180d,0,1.15
+,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,15D,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,8.75,jbs-sovereign-fund_15d,0,0.55
+10.25,11.45,9.85,11.65,12.20,10.35,,12.85,11.15,7850000000,365D,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,11.95,jbs-stable-return-plan_365d,0,0.75
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Net Asset Value,2025-08-01,JBS Pension Fund,0.85,,Forward,7.65,14.25,Medium,0.30,198.47,jbs-pension-fund_net-asset-value,0,1.25
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Net Asset Value,2025-08-01,JBS Islamic Pension Fund,0.55,,Forward,9.20,12.85,Low,0.20,156.74,jbs-islamic-pension-fund_net-asset-value,0,0.95
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Net Asset Value,2025-08-01,JBS Dedicated Equity Fund,1.40,,Forward,0.95,16.85,High,0.38,125.73,jbs-dedicated-equity-fund_net-asset-value,0,1.95
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Net Asset Value,2025-08-01,JBS Stable Return Plan,0.60,,,10.50,11.80,Low,0.20,104.25,jbs-stable-return-plan_net-asset-value,0,0.75
+9.15,12.25,,12.65,13.80,9.05,13.15,14.50,11.75,985000000,1D,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,8.85,jbs-islamic-pension-fund_1d,0,0.95
+1.95,16.75,0.75,,118.60,3.85,54.85,0,14.20,2680000000,270D,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,31.40,jbs-dedicated-equity-fund_270d,0,1.95
+2.14,22.40,0.85,,145.20,4.75,68.90,189.75,18.60,8950000000,270D,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,38.25,jbs-alpha-growth-fund_270d,0,1.85
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Sales and Marketing,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,,0.25,jbs-sovereign-fund_sales-and-marketing,0,0.55
+8.75,10.95,8.25,11.15,12.10,,11.45,12.75,10.65,9350000000,30D,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,8.85,jbs-sovereign-fund_30d,0,0.55
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Fund Name,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,JBS Income Growth Fund,jbs-income-growth-fund_fund-name,0,1.35
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Fund Name,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,JBS Government Securities Fund,jbs-government-securities-fund_fund-name,0,0.35
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Fund Name,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,JBS Pension Fund,jbs-pension-fund_fund-name,0,1.25
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Return MTD,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,,19.40,High,0.32,1.25,jbs-islamic-equity-fund_return-mtd,0,1.75
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,,8760000000,90D,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,10.15,jbs-islamic-government-fund_90d,0,0.40
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,,10.65,9350000000,3Y,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,12.75,jbs-sovereign-fund_3y,0,0.55
+6.80,19.85,4.25,22.60,,9.15,25.40,32.90,18.45,2150000000,2Y,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,28.75,jbs-financial-sector-fund_2y,0,1.45
+3.80,19.85,,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,1D,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,1.25,jbs-equity-opportunity-fund_1d,0,2.15
+8.45,10.15,7.95,,11.20,8.60,10.65,11.85,9.85,12450000000,270D,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,10.35,jbs-government-securities-fund_270d,0,0.35
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,,28750000000,90D,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,9.45,jbs-cash-fund_90d,0,0.85
+,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,15D,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,8.75,jbs-money-market-fund_15d,0,0.65
+4.85,15.20,2.15,28.45,89.60,6.90,,125.70,12.75,1850000000,365D,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,42.80,jbs-pension-fund_365d,0,1.25
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Management Fee,2025-08-01,JBS Income Growth Fund,,116.84,Forward,8.50,13.70,Medium,0.28,0.95,jbs-income-growth-fund_management-fee,0,1.35
+2.85,20.60,1.45,36.80,,5.15,62.45,175.20,17.25,5420000000,2Y,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,132.75,jbs-islamic-equity-fund_2y,0,1.75
+8.45,10.15,7.95,10.35,,8.60,10.65,11.85,9.85,12450000000,2Y,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,11.20,jbs-government-securities-fund_2y,0,0.35
+9.65,10.45,9.45,10.55,11.15,9.55,,11.65,10.25,18940000000,365D,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,10.75,jbs-conservative-income-fund_365d,0,0.65
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,,Assets Under Management,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,3240000000,jbs-equity-opportunity-fund_assets-under-management,0,2.15
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,,7850000000,90D,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,11.15,jbs-stable-return-plan_90d,0,0.75
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Management Fee,2025-08-01,JBS Islamic Income Fund,,108.45,Forward,9.85,12.40,Medium,0.25,0.80,jbs-islamic-income-fund_management-fee,0,0.95
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Fund Name,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,JBS Dedicated Equity Fund,jbs-dedicated-equity-fund_fund-name,0,1.95
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,,6890000000,90D,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,13.80,jbs-balanced-allocation-fund_90d,0,1.15
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Sales and Marketing,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,,0.25,jbs-islamic-income-fund_sales-and-marketing,0,0.95
+,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,15D,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,1.75,jbs-aggressive-growth-fund_15d,0,2.45
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Sales and Marketing,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,,0.26,jbs-balanced-allocation-fund_sales-and-marketing,0,1.15
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Total Expense Ratio,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,1.95,jbs-dedicated-equity-fund_total-expense-ratio,0,
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Risk Profile,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,,0.19,Medium,jbs-islamic-government-fund_risk-profile,0,0.40
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Total Expense Ratio,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,1.15,jbs-balanced-allocation-fund_total-expense-ratio,0,
+9.35,9.75,9.15,9.85,10.15,,10.05,10.45,9.45,28750000000,30D,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,9.25,jbs-cash-fund_30d,0,0.85
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Fund Name,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,JBS Alpha Growth Fund,jbs-alpha-growth-fund_fund-name,0,1.85
+9.05,9.60,8.75,9.70,10.10,8.95,,10.25,9.25,38920000000,365D,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,9.85,jbs-islamic-money-market-fund_365d,0,0.45
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Sales and Marketing,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,,0.32,jbs-islamic-equity-fund_sales-and-marketing,0,1.75
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Date,,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,2025-08-01,jbs-islamic-government-fund_date,0,0.40
+5.90,15.45,,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,1D,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,3.85,jbs-balanced-allocation-fund_1d,0,1.15
+9.05,9.60,,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,1D,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,8.75,jbs-islamic-money-market-fund_1d,0,0.45
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Date,,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,2025-08-01,jbs-government-securities-fund_date,0,0.35
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Pricing Mechanism,2025-08-03,JBS Cash Fund,0.65,456.82,,9.40,9.95,Low,0.22,Backward,jbs-cash-fund_pricing-mechanism,0,0.85
+2.85,20.60,1.45,,132.75,5.15,62.45,175.20,17.25,5420000000,270D,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,36.80,jbs-islamic-equity-fund_270d,0,1.75
+,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,15D,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,9.05,jbs-islamic-money-market-fund_15d,0,0.45
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Risk Profile,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,,0.28,Medium,jbs-income-growth-fund_risk-profile,0,1.35
+3.80,19.85,1.25,,125.40,6.25,58.75,168.90,16.45,3240000000,270D,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,35.60,jbs-equity-opportunity-fund_270d,0,2.15
+,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,15D,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,8.45,jbs-government-securities-fund_15d,0,0.35
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,,Assets Under Management,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,6890000000,jbs-balanced-allocation-fund_assets-under-management,0,1.15
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Date,,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,2025-08-01,jbs-balanced-allocation-fund_date,0,1.15
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Return MTD,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,,9.80,Low,0.12,9.15,jbs-islamic-money-market-fund_return-mtd,0,0.45
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Date,,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,2025-08-01,jbs-islamic-income-fund_date,0,0.95
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Risk Profile,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,,0.26,Medium,jbs-balanced-allocation-fund_risk-profile,0,1.15
+5.90,15.45,3.85,16.90,22.40,,18.65,26.85,13.80,6890000000,30D,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,7.25,jbs-balanced-allocation-fund_30d,0,1.15
+,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,15D,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,10.25,jbs-stable-return-plan_15d,0,0.75
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Date,,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,2025-08-01,jbs-sovereign-fund_date,0,0.55
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,,38920000000,90D,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,9.25,jbs-islamic-money-market-fund_90d,0,0.45
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Date,,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,2025-08-01,jbs-financial-sector-fund_date,0,1.45
+8.75,,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,180D,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,9.05,jbs-money-market-fund_180d,0,0.65
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,,9.25,38920000000,3Y,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,10.25,jbs-islamic-money-market-fund_3y,0,0.45
+1.75,26.40,0.45,42.90,165.80,3.60,,245.60,21.85,1620000000,365D,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,78.60,jbs-aggressive-growth-fund_365d,0,2.45
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,,2680000000,90D,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,14.20,jbs-dedicated-equity-fund_90d,0,1.95
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Management Fee,2025-08-01,JBS Financial Sector Fund,,134.52,Forward,7.85,20.50,Medium,0.30,1.00,jbs-financial-sector-fund_management-fee,0,1.45
+6.25,12.85,4.85,,15.60,7.15,13.95,18.75,11.90,3450000000,270D,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,13.25,jbs-retirement-planning-fund_270d,0,1.05
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Risk Profile,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,,0.30,Medium,jbs-financial-sector-fund_risk-profile,0,1.45
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Sales and Marketing,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,,0.20,jbs-stable-return-plan_sales-and-marketing,0,0.75
+10.25,11.45,9.85,,12.20,10.35,11.95,12.85,11.15,7850000000,270D,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,11.65,jbs-stable-return-plan_270d,0,0.75
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,,3240000000,90D,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,16.45,jbs-equity-opportunity-fund_90d,0,2.15
+1.75,26.40,0.45,42.90,165.80,,78.60,245.60,21.85,1620000000,30D,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,3.60,jbs-aggressive-growth-fund_30d,0,2.45
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Date,,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,2025-08-01,jbs-aggressive-growth-fund_date,0,2.45
+8.75,9.05,,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,1D,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,8.45,jbs-money-market-fund_1d,0,0.65
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,,17.25,5420000000,3Y,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,175.20,jbs-islamic-equity-fund_3y,0,1.75
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Risk Profile,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,,0.25,Medium,jbs-islamic-income-fund_risk-profile,0,0.95
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Date,,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,2025-08-01,jbs-islamic-pension-fund_date,0,0.95
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,,21.85,1620000000,3Y,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,245.60,jbs-aggressive-growth-fund_3y,0,2.45
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Pricing Mechanism,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,,9.15,9.80,Low,0.12,Backward,jbs-islamic-money-market-fund_pricing-mechanism,0,0.45
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,,12450000000,90D,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,9.85,jbs-government-securities-fund_90d,0,0.35
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,,42380000000,90D,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,9.10,jbs-money-market-fund_90d,0,0.65
+6.80,19.85,4.25,22.60,28.75,9.15,,32.90,18.45,2150000000,365D,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,25.40,jbs-financial-sector-fund_365d,0,1.45
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,Risk Profile,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,,0.25,Medium,jbs-sovereign-fund_risk-profile,0,0.55
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Date,,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,2025-08-02,jbs-islamic-money-market-fund_date,0,0.45
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,,18940000000,90D,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,10.25,jbs-conservative-income-fund_90d,0,0.65
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Return MTD,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,,12.40,Medium,0.25,9.85,jbs-islamic-income-fund_return-mtd,0,0.95
+10.25,11.45,9.85,11.65,,10.35,11.95,12.85,11.15,7850000000,2Y,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,12.20,jbs-stable-return-plan_2y,0,0.75
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Return MTD,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,,20.50,Medium,0.30,7.85,jbs-financial-sector-fund_return-mtd,0,1.45
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Date,,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,2025-08-02,jbs-money-market-fund_date,0,0.65
+1.95,16.75,0.75,31.40,118.60,,54.85,0,14.20,2680000000,30D,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,3.85,jbs-dedicated-equity-fund_30d,0,1.95
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Return MTD,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,,9.25,Low,0.15,8.90,jbs-money-market-fund_return-mtd,0,0.65
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Return YTD,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,,Medium,0.25,12.40,jbs-islamic-income-fund_return-ytd,0,0.95
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Return YTD,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,,Medium,0.30,14.25,jbs-pension-fund_return-ytd,0,1.25
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Net Asset Value,2025-08-01,JBS Balanced Allocation Fund,0.90,,Forward,6.75,15.30,Medium,0.26,122.89,jbs-balanced-allocation-fund_net-asset-value,0,1.15
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,,Assets Under Management,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,38920000000,jbs-islamic-money-market-fund_assets-under-management,0,0.45
+8.75,9.05,8.45,9.15,9.50,,9.35,9.80,9.10,42380000000,30D,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,8.65,jbs-money-market-fund_30d,0,0.65
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Date,,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,2025-08-01,jbs-pension-fund_date,0,1.25
+9.35,9.75,9.15,,10.15,9.25,10.05,10.45,9.45,28750000000,270D,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,9.85,jbs-cash-fund_270d,0,0.85
+8.25,13.15,6.85,13.85,15.90,,14.60,17.25,12.40,4780000000,30D,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,8.75,jbs-income-growth-fund_30d,0,1.35
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Net Asset Value,2025-08-01,JBS Retirement Planning Fund,0.70,,Forward,8.25,13.40,Low,0.24,167.35,jbs-retirement-planning-fund_net-asset-value,0,1.05
+10.25,11.45,,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,1D,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,9.85,jbs-stable-return-plan_1d,0,0.75
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Return MTD,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,,13.40,Low,0.24,8.25,jbs-retirement-planning-fund_return-mtd,0,1.05
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Date,,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,2025-08-01,jbs-conservative-income-fund_date,0,0.65
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Date,,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,2025-08-01,jbs-retirement-planning-fund_date,0,1.05
+9.15,12.25,8.85,12.65,13.80,9.05,,14.50,11.75,985000000,365D,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,13.15,jbs-islamic-pension-fund_365d,0,0.95
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Risk Profile,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,,0.18,Medium,jbs-government-securities-fund_risk-profile,0,0.35
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Date,,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,2025-08-01,jbs-islamic-equity-fund_date,0,1.75
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Pricing Mechanism,2025-08-02,JBS Money Market Fund,0.50,101.85,,8.90,9.25,Low,0.15,Backward,jbs-money-market-fund_pricing-mechanism,0,0.65
+8.75,10.95,,11.15,12.10,8.85,11.45,12.75,10.65,9350000000,1D,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,8.25,jbs-sovereign-fund_1d,0,0.55
+8.75,9.05,8.45,9.15,,8.65,9.35,9.80,9.10,42380000000,2Y,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,9.50,jbs-money-market-fund_2y,0,0.65
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Date,,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,2025-08-01,jbs-alpha-growth-fund_date,0,1.85
+2.85,20.60,1.45,36.80,132.75,5.15,,175.20,17.25,5420000000,365D,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,62.45,jbs-islamic-equity-fund_365d,0,1.75
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Net Asset Value,2025-08-01,JBS Equity Opportunity Fund,1.50,,Forward,1.85,22.60,High,0.40,175.92,jbs-equity-opportunity-fund_net-asset-value,0,2.15
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Management Fee,2025-08-02,JBS Money Market Fund,,101.85,Backward,8.90,9.25,Low,0.15,0.50,jbs-money-market-fund_management-fee,0,0.65
+8.25,13.15,6.85,13.85,,8.75,14.60,17.25,12.40,4780000000,2Y,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,15.90,jbs-income-growth-fund_2y,0,1.35
+8.35,10.65,,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,1D,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,7.85,jbs-islamic-government-fund_1d,0,0.40
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Return YTD,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,,Low,0.15,9.25,jbs-money-market-fund_return-ytd,0,0.65
+,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,15D,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,8.25,jbs-income-growth-fund_15d,0,1.35
+8.35,10.65,7.85,10.85,11.85,,11.25,12.45,10.15,8760000000,30D,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,8.45,jbs-islamic-government-fund_30d,0,0.40
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Date,,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,2025-08-01,jbs-income-growth-fund_date,0,1.35
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Date,,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,2025-08-01,jbs-dedicated-equity-fund_date,0,1.95
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Fund Name,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,JBS Retirement Planning Fund,jbs-retirement-planning-fund_fund-name,0,1.05
+9.65,10.45,9.45,10.55,11.15,,10.75,11.65,10.25,18940000000,30D,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,9.55,jbs-conservative-income-fund_30d,0,0.65
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,,11.75,985000000,3Y,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,14.50,jbs-islamic-pension-fund_3y,0,0.95
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Net Asset Value,2025-08-01,JBS Islamic Government Fund,0.60,,Forward,8.60,10.90,Medium,0.19,105.72,jbs-islamic-government-fund_net-asset-value,0,0.40
+2.14,22.40,0.85,38.25,,4.75,68.90,189.75,18.60,8950000000,2Y,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,145.20,jbs-alpha-growth-fund_2y,0,1.85
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Date,,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,2025-08-01,jbs-stable-return-plan_date,0,0.75
+9.80,9.40,7.25,10.60,16.80,10.15,,18.95,11.85,15670000000,365D,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,13.25,jbs-islamic-income-fund_365d,0,0.95
+9.15,12.25,8.85,12.65,13.80,,13.15,14.50,11.75,985000000,30D,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,9.05,jbs-islamic-pension-fund_30d,0,0.95
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,,4780000000,90D,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,12.40,jbs-income-growth-fund_90d,0,1.35
+8.25,,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,180D,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,13.15,jbs-income-growth-fund_180d,0,1.35
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,,1620000000,90D,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,21.85,jbs-aggressive-growth-fund_90d,0,2.45
+,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,15D,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,2.14,jbs-alpha-growth-fund_15d,0,1.85
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Date,,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,2025-08-01,jbs-equity-opportunity-fund_date,0,2.15
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,,10.25,18940000000,3Y,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,11.65,jbs-conservative-income-fund_3y,0,0.65
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,,15670000000,90D,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,11.85,jbs-islamic-income-fund_90d,0,0.95
+,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,15D,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,9.65,jbs-conservative-income-fund_15d,0,0.65
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,,10.15,8760000000,3Y,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,12.45,jbs-islamic-government-fund_3y,0,0.40
+9.35,9.75,,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,1D,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,9.15,jbs-cash-fund_1d,0,0.85
+6.80,19.85,4.25,22.60,28.75,,25.40,32.90,18.45,2150000000,30D,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,9.15,jbs-financial-sector-fund_30d,0,1.45
+1.75,,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,180D,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,26.40,jbs-aggressive-growth-fund_180d,0,2.45
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Return YTD,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,,Low,0.12,9.80,jbs-islamic-money-market-fund_return-ytd,0,0.45
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,,9350000000,90D,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,10.65,jbs-sovereign-fund_90d,0,0.55
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,,Assets Under Management,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,1620000000,jbs-aggressive-growth-fund_assets-under-management,0,2.45
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Net Asset Value,2025-08-03,JBS Cash Fund,0.65,,Backward,9.40,9.95,Low,0.22,456.82,jbs-cash-fund_net-asset-value,0,0.85
+3.80,19.85,1.25,35.60,125.40,,58.75,168.90,16.45,3240000000,30D,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,6.25,jbs-equity-opportunity-fund_30d,0,2.15
+2.85,20.60,1.45,36.80,132.75,,62.45,175.20,17.25,5420000000,30D,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,5.15,jbs-islamic-equity-fund_30d,0,1.75
+8.35,,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,180D,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,10.65,jbs-islamic-government-fund_180d,0,0.40
+6.25,12.85,4.85,13.25,,7.15,13.95,18.75,11.90,3450000000,2Y,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,15.60,jbs-retirement-planning-fund_2y,0,1.05
+6.25,,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,180D,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,12.85,jbs-retirement-planning-fund_180d,0,1.05
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Net Asset Value,2025-08-01,JBS Financial Sector Fund,1.00,,Forward,7.85,20.50,Medium,0.30,134.52,jbs-financial-sector-fund_net-asset-value,0,1.45
+8.45,10.15,7.95,10.35,11.20,8.60,,11.85,9.85,12450000000,365D,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,10.65,jbs-government-securities-fund_365d,0,0.35
+2.85,,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,180D,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,20.60,jbs-islamic-equity-fund_180d,0,1.75
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,26.85,13.80,6890000000,Return MTD,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,,15.30,Medium,0.26,6.75,jbs-balanced-allocation-fund_return-mtd,0,1.15
+6.80,19.85,4.25,,28.75,9.15,25.40,32.90,18.45,2150000000,270D,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,22.60,jbs-financial-sector-fund_270d,0,1.45
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,Total Expense Ratio,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,1.05,jbs-retirement-planning-fund_total-expense-ratio,0,
+6.80,19.85,,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,1D,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,4.25,jbs-financial-sector-fund_1d,0,1.45
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,,16.45,3240000000,3Y,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,168.90,jbs-equity-opportunity-fund_3y,0,2.15
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Return YTD,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,,Low,0.20,12.85,jbs-islamic-pension-fund_return-ytd,0,0.95
+8.75,9.05,8.45,,9.50,8.65,9.35,9.80,9.10,42380000000,270D,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,9.15,jbs-money-market-fund_270d,0,0.65
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,7850000000,Fund Name,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,JBS Stable Return Plan,jbs-stable-return-plan_fund-name,0,0.75
+9.05,9.60,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,Net Asset Value,2025-08-02,JBS Islamic Money Market Fund,0.40,,Backward,9.15,9.80,Low,0.12,100.95,jbs-islamic-money-market-fund_net-asset-value,0,0.45
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Return YTD,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,,Low,0.16,10.60,jbs-conservative-income-fund_return-ytd,0,0.65
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,,Assets Under Management,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,5420000000,jbs-islamic-equity-fund_assets-under-management,0,1.75
+9.80,9.40,7.25,,16.80,10.15,13.25,18.95,11.85,15670000000,270D,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,10.60,jbs-islamic-income-fund_270d,0,0.95
+4.85,15.20,2.15,28.45,89.60,,42.80,125.70,12.75,1850000000,30D,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,6.90,jbs-pension-fund_30d,0,1.25
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,,5420000000,90D,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,17.25,jbs-islamic-equity-fund_90d,0,1.75
+5.90,15.45,3.85,,22.40,7.25,18.65,26.85,13.80,6890000000,270D,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,16.90,jbs-balanced-allocation-fund_270d,0,1.15
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,Return YTD,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,,Medium,0.30,20.50,jbs-financial-sector-fund_return-ytd,0,1.45
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,,Assets Under Management,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,15670000000,jbs-islamic-income-fund_assets-under-management,0,0.95
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Net Asset Value,2025-08-01,JBS Income Growth Fund,0.95,,Forward,8.50,13.70,Medium,0.28,116.84,jbs-income-growth-fund_net-asset-value,0,1.35
+8.45,10.15,7.95,10.35,11.20,,10.65,11.85,9.85,12450000000,30D,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,8.60,jbs-government-securities-fund_30d,0,0.35
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Management Fee,2025-08-01,JBS Islamic Equity Fund,,138.96,Forward,1.25,19.40,High,0.32,1.20,jbs-islamic-equity-fund_management-fee,0,1.75
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,,12.40,4780000000,3Y,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,17.25,jbs-income-growth-fund_3y,0,1.35
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,Return MTD,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,,12.85,Low,0.20,9.20,jbs-islamic-pension-fund_return-mtd,0,0.95
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Risk Profile,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,,0.30,Medium,jbs-pension-fund_risk-profile,0,1.25
+,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,15D,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,9.15,jbs-islamic-pension-fund_15d,0,0.95
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,,8950000000,90D,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,18.60,jbs-alpha-growth-fund_90d,0,1.85
+9.15,12.25,8.85,12.65,13.80,9.05,13.15,14.50,11.75,,Assets Under Management,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,985000000,jbs-islamic-pension-fund_assets-under-management,0,0.95
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,,Assets Under Management,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,12450000000,jbs-government-securities-fund_assets-under-management,0,0.35
+,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,15D,2025-08-01,JBS Islamic Equity Fund,1.20,138.96,Forward,1.25,19.40,High,0.32,2.85,jbs-islamic-equity-fund_15d,0,1.75
+9.15,,8.85,12.65,13.80,9.05,13.15,14.50,11.75,985000000,180D,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,12.25,jbs-islamic-pension-fund_180d,0,0.95
+2.85,20.60,1.45,36.80,132.75,5.15,62.45,175.20,17.25,5420000000,Net Asset Value,2025-08-01,JBS Islamic Equity Fund,1.20,,Forward,1.25,19.40,High,0.32,138.96,jbs-islamic-equity-fund_net-asset-value,0,1.75
+6.25,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,,Assets Under Management,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,3450000000,jbs-retirement-planning-fund_assets-under-management,0,1.05
+8.25,13.15,6.85,,15.90,8.75,14.60,17.25,12.40,4780000000,270D,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,13.85,jbs-income-growth-fund_270d,0,1.35
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,12.85,11.15,,Assets Under Management,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,7850000000,jbs-stable-return-plan_assets-under-management,0,0.75
+6.80,,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,180D,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,19.85,jbs-financial-sector-fund_180d,0,1.45
+9.05,9.60,8.75,9.70,,8.95,9.85,10.25,9.25,38920000000,2Y,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,10.10,jbs-islamic-money-market-fund_2y,0,0.45
+,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,15D,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,9.80,jbs-islamic-income-fund_15d,0,0.95
+5.90,15.45,3.85,16.90,22.40,7.25,18.65,,13.80,6890000000,3Y,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,26.85,jbs-balanced-allocation-fund_3y,0,1.15
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,,12.75,1850000000,3Y,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,125.70,jbs-pension-fund_3y,0,1.25
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,,18.60,8950000000,3Y,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,189.75,jbs-alpha-growth-fund_3y,0,1.85
+9.35,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,Management Fee,2025-08-03,JBS Cash Fund,,456.82,Backward,9.40,9.95,Low,0.22,0.65,jbs-cash-fund_management-fee,0,0.85
+3.80,,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,180D,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,22.60,High,0.40,19.85,jbs-equity-opportunity-fund_180d,0,2.15
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Return YTD,2025-08-01,JBS Equity Opportunity Fund,1.50,175.92,Forward,1.85,,High,0.40,22.60,jbs-equity-opportunity-fund_return-ytd,0,2.15
+8.75,10.95,8.25,11.15,,8.85,11.45,12.75,10.65,9350000000,2Y,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,12.10,jbs-sovereign-fund_2y,0,0.55
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Fund Name,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,0.65,25.80,High,0.45,JBS Aggressive Growth Fund,jbs-aggressive-growth-fund_fund-name,0,2.45
+6.25,12.85,4.85,13.25,15.60,7.15,,18.75,11.90,3450000000,365D,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,13.95,jbs-retirement-planning-fund_365d,0,1.05
+1.75,26.40,0.45,42.90,165.80,3.60,78.60,245.60,21.85,1620000000,Return MTD,2025-08-01,JBS Aggressive Growth Fund,1.75,189.43,Forward,,25.80,High,0.45,0.65,jbs-aggressive-growth-fund_return-mtd,0,2.45
+4.85,,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,180D,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,15.20,jbs-pension-fund_180d,0,1.25
+6.80,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,,Assets Under Management,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,2150000000,jbs-financial-sector-fund_assets-under-management,0,1.45
+10.25,11.45,9.85,11.65,12.20,10.35,11.95,,11.15,7850000000,3Y,2025-08-01,JBS Stable Return Plan,0.60,104.25,,10.50,11.80,Low,0.20,12.85,jbs-stable-return-plan_3y,0,0.75
+5.90,15.45,3.85,16.90,22.40,7.25,,26.85,13.80,6890000000,365D,2025-08-01,JBS Balanced Allocation Fund,0.90,122.89,Forward,6.75,15.30,Medium,0.26,18.65,jbs-balanced-allocation-fund_365d,0,1.15
+1.95,16.75,0.75,31.40,118.60,3.85,,0,14.20,2680000000,365D,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,54.85,jbs-dedicated-equity-fund_365d,0,1.95
+8.35,10.65,7.85,,11.85,8.45,11.25,12.45,10.15,8760000000,270D,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,10.85,jbs-islamic-government-fund_270d,0,0.40
+9.80,9.40,7.25,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,Net Asset Value,2025-08-01,JBS Islamic Income Fund,0.80,,Forward,9.85,12.40,Medium,0.25,108.45,jbs-islamic-income-fund_net-asset-value,0,0.95
+,19.85,4.25,22.60,28.75,9.15,25.40,32.90,18.45,2150000000,15D,2025-08-01,JBS Financial Sector Fund,1.00,134.52,Forward,7.85,20.50,Medium,0.30,6.80,jbs-financial-sector-fund_15d,0,1.45
+8.35,10.65,7.85,10.85,,8.45,11.25,12.45,10.15,8760000000,2Y,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,8.60,10.90,Medium,0.19,11.85,jbs-islamic-government-fund_2y,0,0.40
+8.25,13.15,6.85,13.85,15.90,8.75,,17.25,12.40,4780000000,365D,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,14.60,jbs-income-growth-fund_365d,0,1.35
+9.80,9.40,7.25,10.60,,10.15,13.25,18.95,11.85,15670000000,2Y,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,16.80,jbs-islamic-income-fund_2y,0,0.95
+8.25,13.15,6.85,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,Return YTD,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,,Medium,0.28,13.70,jbs-income-growth-fund_return-ytd,0,1.35
+8.35,10.65,7.85,10.85,11.85,8.45,11.25,12.45,10.15,8760000000,Return MTD,2025-08-01,JBS Islamic Government Fund,0.60,105.72,Forward,,10.90,Medium,0.19,8.60,jbs-islamic-government-fund_return-mtd,0,0.40
+1.95,16.75,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,Return YTD,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,,High,0.38,16.85,jbs-dedicated-equity-fund_return-ytd,0,1.95
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Net Asset Value,2025-08-01,JBS Conservative Income Fund,0.45,,Forward,9.75,10.60,Low,0.16,103.89,jbs-conservative-income-fund_net-asset-value,0,0.65
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,,9.85,12450000000,3Y,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,0.18,11.85,jbs-government-securities-fund_3y,0,0.35
+9.80,9.40,,10.60,16.80,10.15,13.25,18.95,11.85,15670000000,1D,2025-08-01,JBS Islamic Income Fund,0.80,108.45,Forward,9.85,12.40,Medium,0.25,7.25,jbs-islamic-income-fund_1d,0,0.95
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,,Assets Under Management,2025-08-01,JBS Alpha Growth Fund,1.25,142.68,Forward,2.45,18.75,High,0.35,8950000000,jbs-alpha-growth-fund_assets-under-management,0,1.85
+8.75,10.95,8.25,11.15,12.10,8.85,11.45,12.75,10.65,,Assets Under Management,2025-08-01,JBS Sovereign Fund,0.75,107.63,Forward,8.95,11.20,Medium,0.25,9350000000,jbs-sovereign-fund_assets-under-management,0,0.55
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,1850000000,Return MTD,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,,14.25,Medium,0.30,7.65,jbs-pension-fund_return-mtd,0,1.25
+4.85,15.20,2.15,28.45,89.60,6.90,42.80,125.70,12.75,,Assets Under Management,2025-08-01,JBS Pension Fund,0.85,198.47,Forward,7.65,14.25,Medium,0.30,1850000000,jbs-pension-fund_assets-under-management,0,1.25
+,12.85,4.85,13.25,15.60,7.15,13.95,18.75,11.90,3450000000,15D,2025-08-01,JBS Retirement Planning Fund,0.70,167.35,Forward,8.25,13.40,Low,0.24,6.25,jbs-retirement-planning-fund_15d,0,1.05
+9.15,12.25,8.85,,13.80,9.05,13.15,14.50,11.75,985000000,270D,2025-08-01,JBS Islamic Pension Fund,0.55,156.74,Forward,9.20,12.85,Low,0.20,12.65,jbs-islamic-pension-fund_270d,0,0.95
+2.14,22.40,0.85,38.25,145.20,4.75,68.90,189.75,18.60,8950000000,Net Asset Value,2025-08-01,JBS Alpha Growth Fund,1.25,,Forward,2.45,18.75,High,0.35,142.68,jbs-alpha-growth-fund_net-asset-value,0,1.85
+1.95,,0.75,31.40,118.60,3.85,54.85,0,14.20,2680000000,180D,2025-08-01,JBS Dedicated Equity Fund,1.40,125.73,Forward,0.95,16.85,High,0.38,16.75,jbs-dedicated-equity-fund_180d,0,1.95
+9.05,,8.75,9.70,10.10,8.95,9.85,10.25,9.25,38920000000,180D,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,9.60,jbs-islamic-money-market-fund_180d,0,0.45
+8.75,9.05,8.45,9.15,9.50,8.65,,9.80,9.10,42380000000,365D,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,9.35,jbs-money-market-fund_365d,0,0.65
+3.80,19.85,1.25,35.60,125.40,6.25,58.75,168.90,16.45,3240000000,Management Fee,2025-08-01,JBS Equity Opportunity Fund,,175.92,Forward,1.85,22.60,High,0.40,1.50,jbs-equity-opportunity-fund_management-fee,0,2.15
+9.05,9.60,8.75,,10.10,8.95,9.85,10.25,9.25,38920000000,270D,2025-08-02,JBS Islamic Money Market Fund,0.40,100.95,Backward,9.15,9.80,Low,0.12,9.70,jbs-islamic-money-market-fund_270d,0,0.45
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,,9.10,42380000000,3Y,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,9.80,jbs-money-market-fund_3y,0,0.65
+8.75,9.05,8.45,9.15,9.50,8.65,9.35,9.80,9.10,42380000000,Total Expense Ratio,2025-08-02,JBS Money Market Fund,0.50,101.85,Backward,8.90,9.25,Low,0.15,0.65,jbs-money-market-fund_total-expense-ratio,0,
+8.25,13.15,,13.85,15.90,8.75,14.60,17.25,12.40,4780000000,1D,2025-08-01,JBS Income Growth Fund,0.95,116.84,Forward,8.50,13.70,Medium,0.28,6.85,jbs-income-growth-fund_1d,0,1.35
+,9.75,9.15,9.85,10.15,9.25,10.05,10.45,9.45,28750000000,15D,2025-08-03,JBS Cash Fund,0.65,456.82,Backward,9.40,9.95,Low,0.22,9.35,jbs-cash-fund_15d,0,0.85
+8.45,10.15,7.95,10.35,11.20,8.60,10.65,11.85,9.85,12450000000,Sales and Marketing,2025-08-01,JBS Government Securities Fund,0.70,102.18,Forward,8.75,10.45,Medium,,0.18,jbs-government-securities-fund_sales-and-marketing,0,0.35
+9.65,10.45,9.45,10.55,11.15,9.55,10.75,11.65,10.25,18940000000,Total Expense Ratio,2025-08-01,JBS Conservative Income Fund,0.45,103.89,Forward,9.75,10.60,Low,0.16,0.65,jbs-conservative-income-fund_total-expense-ratio,0,
