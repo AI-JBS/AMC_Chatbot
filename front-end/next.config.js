@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: '/amc_chatbot',
   reactStrictMode: true,
   swcMinify: true,
   output: 'standalone',
