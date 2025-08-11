@@ -198,7 +198,7 @@ async def chat_endpoint(request: ChatRequest):
                             logger.info(f"[RESPONSE_TYPE] Extracted from tool: {response_type}")
                             
                             # If we have structured data, ensure the final response includes it
-                            if response_type in ['recommendation', 'comparison', 'performance_analysis', 'market_insights', 'consistency_analysis', 'correlation_analysis', 'portfolio', 'smart_recommendation', 'fee_analysis', 'fund_screening', 'opportunity_scan', 'smart_alerts', 'lead_collection', 'lead_submitted', 'lead_declined', 'lead_collection_declined', 'lead_already_submitted']:
+                            if response_type in ['recommendation', 'comparison', 'performance_analysis', 'market_insights', 'consistency_analysis', 'correlation_analysis', 'portfolio', 'smart_recommendation', 'fee_analysis', 'fund_screening', 'opportunity_scan', 'smart_alerts', 'lead_collection', 'lead_submitted', 'lead_declined', 'lead_collection_declined', 'lead_already_submitted', 'quiz']:
                                 # Append the JSON to the response content if not already there
                                 json_str = json.dumps(tool_output, ensure_ascii=False)
                                 if json_str not in response_content:

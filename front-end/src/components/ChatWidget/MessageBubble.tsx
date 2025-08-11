@@ -6,6 +6,7 @@ import { ChatMessage } from '@/types/chat';
 import { Bot, User } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import RiskProfileMCQ from './RiskProfileMCQ';
+import MCQComponent from './MCQComponent';
 import ChartComponent from './ChartComponent';
 import GanttChart from './GanttChart';
 import FundGrid from './FundGrid';
@@ -18,6 +19,109 @@ interface MessageBubbleProps {
   isLatest?: boolean;
   onSendMessage?: (content: string) => void;
 }
+
+// Dynamic Quiz Component for backend quiz data
+interface DynamicQuizProps {
+  quizData: any;
+  onComplete: (result: string) => void;
+}
+
+const DynamicQuiz: React.FC<DynamicQuizProps> = ({ quizData, onComplete }) => {
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [answers, setAnswers] = useState<Record<string, string[]>>({});
+  
+  if (!quizData || !quizData.questions) {
+    return <div className="text-red-500">Invalid quiz data</div>;
+  }
+
+  const questions = quizData.questions;
+  const currentQuestion = questions[currentQuestionIndex];
+
+  // Convert backend question format to MCQComponent format
+  const formattedQuestion = {
+    id: currentQuestion.id,
+    question: currentQuestion.text,
+    type: 'single' as const,
+    options: currentQuestion.options.map((option: string, index: number) => ({
+      id: `option_${index}`,
+      text: option,
+      value: option
+    }))
+  };
+
+  const handleAnswer = (questionId: string, selectedOptions: string[]) => {
+    const newAnswers = { ...answers, [questionId]: selectedOptions };
+    setAnswers(newAnswers);
+
+    // Move to next question or complete
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+    } else {
+      // Calculate risk score based on backend scoring system
+      const totalScore = calculateRiskScore(newAnswers, questions);
+      const riskLevel = getRiskLevel(totalScore, quizData.scoring);
+      
+      // Send result back to chat
+      onComplete(`Risk Assessment Complete: ${riskLevel} profile determined based on your responses.`);
+    }
+  };
+
+  const calculateRiskScore = (answers: Record<string, string[]>, questions: any[]) => {
+    let score = 0;
+    questions.forEach((question, index) => {
+      const answer = answers[question.id];
+      if (answer && answer.length > 0) {
+        // Score based on option position (1-4 points per question)
+        const optionIndex = question.options.indexOf(answer[0]);
+        score += optionIndex + 1;
+      }
+    });
+    return score;
+  };
+
+  const getRiskLevel = (score: number, scoring: any) => {
+    for (const [range, level] of Object.entries(scoring)) {
+      const [min, max] = range.split('-').map(Number);
+      if (score >= min && score <= max) {
+        return level;
+      }
+    }
+    return 'Medium Risk'; // Default fallback
+  };
+
+  const progress = ((currentQuestionIndex + 1) / questions.length) * 100;
+
+  return (
+    <div className="bg-white rounded-lg p-4 border border-gray-200">
+      {/* Quiz Header */}
+      <div className="mb-4">
+        <h3 className="text-lg font-semibold text-gray-900">{quizData.title}</h3>
+        <p className="text-sm text-gray-600 mt-1">{quizData.description}</p>
+        
+        {/* Progress Bar */}
+        <div className="mt-3">
+          <div className="flex justify-between text-xs text-gray-500 mb-1">
+            <span>Question {currentQuestionIndex + 1} of {questions.length}</span>
+            <span>{Math.round(progress)}%</span>
+          </div>
+          <div className="w-full bg-gray-200 rounded-full h-2">
+            <div 
+              className="bg-blue-600 h-2 rounded-full transition-all duration-300"
+              style={{ width: `${progress}%` }}
+            />
+          </div>
+        </div>
+      </div>
+
+      {/* Current Question */}
+      <MCQComponent
+        question={formattedQuestion}
+        onAnswer={handleAnswer}
+        className="mb-0"
+      />
+    </div>
+  );
+};
 
 const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLatest = false, onSendMessage }) => {
   const isUser = message.role === 'user';
@@ -671,18 +775,41 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLatest = false
         `}>
           {isAssistant ? (
             <>
-              {/* Show Risk Profile MCQ if response_type is 'quiz' - NO TEXT */}
+              {/* Show Dynamic Quiz if response_type is 'quiz' */}
               {message.response_type === 'quiz' ? (
-                <div className="mt-1 max-w-sm">
-                  <RiskProfileMCQ
-                    onComplete={(profileData) => {
-                      // Send the profile data back to the chat without showing completion text
-                      const profileSummary = `Risk Profile Complete: ${profileData.riskTolerance} risk tolerance, ${profileData.experience} experience, ${profileData.timeHorizon} horizon, goals: ${profileData.financialGoals.join(', ')}`;
-                      console.log('✅ Profile completed successfully:', profileData);
+                <div className="mt-1 max-w-lg">
+                  <DynamicQuiz
+                    quizData={(() => {
+                      try {
+                        // Extract JSON from message content - it should be at the end after backend processing
+                        const lines = message.content.split('\n');
+                        for (let i = lines.length - 1; i >= 0; i--) {
+                          const line = lines[i].trim();
+                          if (line.startsWith('{') && line.includes('"type"') && line.includes('"quiz"')) {
+                            return JSON.parse(line);
+                          }
+                        }
+                        
+                        // Alternative: look for JSON block in content
+                        const jsonMatch = message.content.match(/\{[\s\S]*?"type"\s*:\s*"quiz"[\s\S]*?\}(?=\s*$)/);
+                        if (jsonMatch) {
+                          return JSON.parse(jsonMatch[0]);
+                        }
+                        
+                        // Final fallback: try parsing entire content
+                        return JSON.parse(message.content);
+                      } catch (e) {
+                        console.error('Failed to parse quiz JSON:', e);
+                        console.log('Message content:', message.content);
+                        return null;
+                      }
+                    })()}
+                    onComplete={(result) => {
+                      console.log('✅ Quiz completed:', result);
                       
-                      // Send the profile summary back to the chat for processing
+                      // Send the result back to the chat for processing
                       if (onSendMessage) {
-                        onSendMessage(profileSummary);
+                        onSendMessage(result);
                       } else {
                         console.error('❌ Cannot send message - onSendMessage not provided');
                       }

@@ -4,3 +4,8 @@ venv
 .env.local
 .env.*.local
 back-end\.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
