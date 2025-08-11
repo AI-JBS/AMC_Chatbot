@@ -1,8 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: '/amc_chatbot',
   reactStrictMode: true,
+  trailingSlash: true,
   swcMinify: true,
-  output: 'standalone',
+  output: 'export',
+  // Required for static export
+  images: {
+    unoptimized: true
+  },
   // Production optimizations
   experimental: {
     optimizePackageImports: ['lucide-react', 'framer-motion'],
