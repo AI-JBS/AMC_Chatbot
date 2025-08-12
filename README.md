@@ -57,7 +57,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Backend will run on `http://localhost:8000` 🟢
+Backend will run on `http://localhost:8022` 
 
 ### 2. Frontend Setup
 ```bash
@@ -71,7 +71,7 @@ npm install
 npm run dev
 ```
 
-Frontend will run on `http://localhost:3000` 🟢
+Frontend will run on `http://localhost:3022` 
 
 ### 3. Access the Application
 - **Website**: Open [http://localhost:3000](http://localhost:3000)
@@ -135,7 +135,7 @@ AZURE_OPENAI_TEMPERATURE=0.1
 
 # Pinecone Configuration  
 PINECONE_API_KEY=your_pinecone_key
-PINECONE_INDEX_NAME=hkp-amcdata
+PINECONE_INDEX_NAME=your-pinecone-index-name
 ```
 
 ### Frontend Environment (.env.local)
