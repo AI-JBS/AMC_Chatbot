@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Comment out basePath for local development
   basePath: '/amc_chatbot',
   reactStrictMode: true,
   trailingSlash: true,
@@ -21,7 +22,9 @@ const nextConfig = {
     return [
       {
         source: '/api/:path*',
-        destination: 'https://jbs-ai.com/amc_api/:path*', // Production API proxy
+        destination: process.env.NODE_ENV === 'production' 
+          ? 'https://jbs-ai.com/amc_api/:path*' // Production API proxy
+          : 'http://localhost:8022/:path*', // Local development API proxy
       },
     ]
   },

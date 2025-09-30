@@ -115,6 +115,7 @@ const DynamicQuiz: React.FC<DynamicQuizProps> = ({ quizData, onComplete }) => {
 
       {/* Current Question */}
       <MCQComponent
+        key={currentQuestion.id} // Force re-render for each question
         question={formattedQuestion}
         onAnswer={handleAnswer}
         className="mb-0"
@@ -733,8 +734,19 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLatest = false
   const shouldCleanContent = ['recommendation', 'performance_analysis', 'market_insights', 
     'consistency_analysis', 'correlation_analysis', 'portfolio', 'comparison', 'smart_recommendation', 'lead_collection', 'lead_submitted', 'lead_declined', 'lead_collection_declined', 'lead_already_submitted'].includes(message.response_type || '');
   
-  const displayContent = recommendationResult?.cleanContent || 
-    (shouldCleanContent ? cleanContentFromJson(message.content, message.response_type || '') : message.content);
+  // For responses with structured data, show minimal or no text content
+  const hasStructuredData = shouldCleanContent && message.content.includes('{"type":');
+  const displayContent = hasStructuredData 
+    ? (message.response_type === 'recommendation' ? "Fund recommendations" : 
+       message.response_type === 'comparison' ? "Performance comparison" :
+       message.response_type === 'performance_analysis' ? "Performance analysis" :
+       message.response_type === 'portfolio' ? "Portfolio allocation" :
+       message.response_type === 'market_insights' ? "Market insights" :
+       message.response_type === 'lead_collection' ? "Would you like to connect with our investment experts?" :
+       "Here are your results")
+    : (recommendationResult?.cleanContent || 
+       (shouldCleanContent ? cleanContentFromJson(message.content, message.response_type || '') : message.content));
+  
   const recommendationChart = recommendationResult?.chart || null;
 
   const formatTime = (timestamp: Date) => {
@@ -818,24 +830,27 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLatest = false
                 </div>
               ) : (
                 <>
-                  <ReactMarkdown 
-                    className="prose prose-sm max-w-none"
-                    components={{
-                      p: ({ children }) => <p className="mb-2 last:mb-0">{children}</p>,
-                      ul: ({ children }) => <ul className="list-disc list-inside mb-2 space-y-1">{children}</ul>,
-                      ol: ({ children }) => <ol className="list-decimal list-inside mb-2 space-y-1">{children}</ol>,
-                      li: ({ children }) => <li className="text-sm">{children}</li>,
-                      strong: ({ children }) => <strong className="font-semibold text-gray-900">{children}</strong>,
-                      em: ({ children }) => <em className="italic">{children}</em>,
-                      code: ({ children }) => (
-                        <code className="px-1 py-0.5 bg-gray-100 rounded text-xs font-mono">
-                          {children}
-                        </code>
-                      ),
-                    }}
-                  >
-                    {displayContent}
-                  </ReactMarkdown>
+                  {/* Only show text content if there's no structured data */}
+                  {!hasStructuredData && (
+                    <ReactMarkdown 
+                      className="prose prose-sm max-w-none"
+                      components={{
+                        p: ({ children }) => <p className="mb-2 last:mb-0">{children}</p>,
+                        ul: ({ children }) => <ul className="list-disc list-inside mb-2 space-y-1">{children}</ul>,
+                        ol: ({ children }) => <ol className="list-decimal list-inside mb-2 space-y-1">{children}</ol>,
+                        li: ({ children }) => <li className="text-sm">{children}</li>,
+                        strong: ({ children }) => <strong className="font-semibold text-gray-900">{children}</strong>,
+                        em: ({ children }) => <em className="italic">{children}</em>,
+                        code: ({ children }) => (
+                          <code className="px-1 py-0.5 bg-gray-100 rounded text-xs font-mono">
+                            {children}
+                          </code>
+                        ),
+                      }}
+                    >
+                      {displayContent}
+                    </ReactMarkdown>
+                  )}
                   
                   {/* Show Charts for different response types */}
                   {message.response_type === 'comparison' && renderComparisonChart(message.content)}
@@ -863,11 +878,6 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLatest = false
         {/* Timestamp */}
         <div className={`text-xs text-gray-500 mt-1 ${isUser ? 'text-right' : 'text-left'}`}>
           {formatTime(message.timestamp)}
-          {message.response_type && (
-            <span className="ml-2 px-2 py-0.5 bg-blue-100 text-blue-700 rounded text-xs">
-              {message.response_type}
-            </span>
-          )}
         </div>
       </div>
     </motion.div>

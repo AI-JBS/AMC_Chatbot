@@ -1,9 +1,5 @@
 .venv
 venv
-.env
-.env.local
-.env.*.local
-back-end\.env
 __pycache__/
 *.pyc
 *.pyo
